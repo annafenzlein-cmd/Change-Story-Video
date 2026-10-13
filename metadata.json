@@ -1,0 +1,8 @@
+{
+  "name": "Change Story Video Studio",
+  "description": "Create, script, storyboard, and preview compelling change story videos for brands, transformations, and narratives.",
+  "requestPermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
